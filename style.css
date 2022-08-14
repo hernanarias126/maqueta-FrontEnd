@@ -1,0 +1,35 @@
+body{
+    background-color:darkslategray;
+}
+.info-personal {
+    background-color: #ffffff;
+}
+.acerca-de, .educacion, .skills, .proyectos{
+    background-color: #ffffff;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: 1em;
+}
+.imprimir {
+    background-color: #ffffff;
+    padding-right: 50%;
+    padding-left: 50%;
+    margin-top: 1em;
+}
+#perfil{
+    width: 10em;
+    height:10em;
+    border-radius: 50%;
+
+}
+#img-utn{
+    width: 10em;
+    height:10em;
+}
+#img-ap{
+    width: 13em;
+    height: 10em;
+}
+.skills p{
+    text-align: center;
+}

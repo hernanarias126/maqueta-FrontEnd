@@ -1,0 +1,9 @@
+body{
+    background-color:darkslategray;
+}
+#titulo{
+    text-align: center;
+}
+textarea{
+    resize: none;
+}
